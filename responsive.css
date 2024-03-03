@@ -109,6 +109,19 @@
   width: 100%; 
   text-align: center;
 }
+/* Perfect-Place section end here */
+
+.Newsletter-container{
+   flex-direction: column;
+}
+.Newsletter-text{
+  width: 100%;
+  padding: 35px;  
+}
+.Newsletter-img{
+  width: 100%; 
+}
+/* Newsletter-container section end here */
 
   }
 

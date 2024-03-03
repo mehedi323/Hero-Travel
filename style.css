@@ -281,3 +281,72 @@ main{
 .perfect-right img{
     width: 500px;
 }
+/* perfect place section end here */
+
+.Newsletter-container{
+    display: flex;
+    margin-top: 60px;
+}
+.Newsletter-text{
+    width: 30%;
+    padding: 35px; 
+    margin-top: 15px;
+}
+.Newsletter-text h5{
+    font-size: 20px;
+    margin: 15px 0px;
+}
+.Newsletter-text p{
+    width: 300px;
+    margin: 10px 0px;
+}
+ .input input{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px 0px;
+    border-radius: 10px;
+    border-style: none;
+    text-align: center;
+    background-color: rgb(229, 220, 220);
+ }
+ .input-btn{ 
+    width: 100%;
+    padding: 10px 0px;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    background-color: rgb(240, 102, 51);
+ }
+.Newsletter-img{
+    width: 70%;
+    text-align: right;
+}
+/* Newsletter section end here */
+
+.footer-section{
+    background-color: aliceblue;
+    margin-top: 45px;
+    padding: 45px;
+    text-align: center;
+}
+.footer-section p{
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px 0px;
+    line-height: 25px;
+}
+.text-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+.footer-icon{ 
+    font-size: 25px; 
+   margin-bottom: 35px;
+   padding-bottom: 30px;
+   border-bottom: 1px solid rgb(227, 224, 224);
+}
+.footer-icon span{ 
+   padding: 15px;
+}
