@@ -15,9 +15,10 @@
     } 
     .btn{
       flex-direction: column;
+      text-align: center;
     }
     /* header section end here */
-    
+
     .Popular-Tours{
       flex-direction: column;
       font-size: medium;
@@ -32,6 +33,66 @@
   width: 100%;  
   text-align: center;
 }
+/* Popular-Tours section end here */
+
+.destination-2-img-container{
+  flex-direction: column;
+}
+.single-img-1{
+  width: 100%;
+  padding: 10px;
+  height: 400px; 
+}
+.single-img-2{
+  width: 100%;
+  padding: 10px;
+  height: 400px; 
+}
+.destination-3-img-container{  
+   flex-direction: column;
+}
+.img-1{
+  width: 100%;
+  padding: 10px;
+  height: 400px;
+}
+.img-2{
+  width: 100%;
+  padding: 10px;
+  height: 400px;
+}
+.img-3{
+  width: 100%;
+  padding: 10px;
+  height: 400px;
+}
+.destination-bd-bandorbon{
+   flex-direction: column;
+}
+.bangladesh{
+  width: 100%;
+  padding: 10px;
+  height: 400px;
+}
+.Bandarban{
+  width: 100%;
+  padding: 10px;
+  height: 400px;
+}
+/* Your-Destination section end here */
+
+.Choose-icon-text-container{
+ flex-direction: column;
+}
+.Handpicked-Hotel{
+  width: 100%;
+  padding: 10px;
+}
+.Best-Price{
+  width: 100%; 
+  padding: 20px;
+}
+
   }
 
 

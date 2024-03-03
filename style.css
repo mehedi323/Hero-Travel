@@ -130,9 +130,17 @@ main{
 }
 /* popular-tours section end here */
 
-.Your-Destination{
+.Your-Destination{ 
+    margin-bottom: 15px;
+}
+.Your-Destination-text{
+    width: 550px;
+    margin: 0 auto;
     text-align: center;
     margin-bottom: 15px;
+}
+.Your-Destination-text h1{
+    font-size: 35px;
 }
 .destination-2-img-container{
     max-width: 1200px;
@@ -143,6 +151,7 @@ main{
 .single-img-1{
     width: 50%;
     height: 400px;
+    text-align: center;
     background-image: url(./Images/Rectangle\ 5.png);
     background-position: center;
     background-repeat: no-repeat;  
@@ -151,6 +160,7 @@ main{
 .single-img-2{
     width: 50%;
     height: 400px;
+    text-align: center;
     background-image: url(./Images/Rectangle\ 8.png);
     background-position: center;
     background-repeat: no-repeat; 
@@ -166,6 +176,7 @@ main{
 .img-1{
     width: 35%;
     height: 400px;
+    text-align: center;
     background-image: url(./Images/Rectangle\ 6.png);
     background-position: center; 
     background-repeat: no-repeat; 
@@ -174,6 +185,7 @@ main{
 .img-2{
     width: 40%;
     height: 400px;
+    text-align: center;
     background-image: url(./Images/Rectangle\ 7.png);
     background-position: center;
     background-repeat: no-repeat; 
@@ -181,6 +193,7 @@ main{
  
 .img-3{
     width: 25%;
+    text-align: center;
     height: 400px;
     background-image: url(./Images/Rectangle\ 9.png);
     background-position: center;
@@ -192,6 +205,7 @@ main{
 .bangladesh{
     width: 40%;
     height: 400px;
+    text-align: center;
     background-image: url(./Images/Rectangle\ 11.png);
     background-position: center;
     background-repeat: no-repeat; 
@@ -199,8 +213,47 @@ main{
 .Bandarban{
     width: 60%;
     height: 400px;
+    text-align: center;
     background-image: url(./Images/Rectangle\ 10.png);
     background-position: center;
     background-repeat: no-repeat; 
 }
+
+/* Your-Destination section end here */
+
+.Choose-us-text{
+    text-align: center;
+    width: 550px;
+    margin: 0 auto;
+}
+.Choose-icon-text-container{
+    display: flex;
+    max-width: 1200px;
+    gap: 10px;
+}
+.Handpicked-Hotel{
+    width: 50%;
+    margin: 20px 0px;
+    background-color: rgb(245, 239, 232);
+    padding: 20px;
+    border-radius: 10px;
+}
+.Handpicked-Hotel h3{
+    margin: 10px 0px;
+}
+.Handpicked-Hotel img{
+    width: 60px;
+    margin: 15px 0px;
+}
+.Best-Price{
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(250, 249, 195); 
+}
+.Best-Price img{
+    width: 50px;
+}
+/* Choose-Us section end here */
  
