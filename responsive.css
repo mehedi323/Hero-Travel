@@ -92,6 +92,23 @@
   width: 100%; 
   padding: 20px;
 }
+/* Choose-icon-text-container end here */
+
+.Perfect-Place{
+  flex-direction: column;
+}
+.perfect-left{
+  width: 100%;
+  font-size: 20px;
+  padding: 15px;
+ }
+ .perfect-left li{
+  font-size: 18px;
+}
+.perfect-right{
+  width: 100%; 
+  text-align: center;
+}
 
   }
 
